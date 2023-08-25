@@ -1,0 +1,1 @@
+{'image ID:': 'frt00009b5a_07_if165j_mtr3', 'PCA components:': 6, 'PCA components removed:': 'first component', 'UMAP': 'Nearest neighbours:100; Minimum distance:0.2', 'Scaler': 'Standard scaler', 'Classifier': 'K-Means', 'Number of clusters': 12, 'Inertia': 73141.765625}
