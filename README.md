@@ -16,6 +16,7 @@ Please download:
 ## Requirements
 
 **Tested on x86-64 architecture with Python 3.12**
+
 Important: 
 - UMAP does not support x86-32 architecture
 - UMAP requires Python 3.6 or greater 
