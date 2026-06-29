@@ -1,8 +1,7 @@
 # CRISM-python-unsupervised-clustering
 
 ## Introduction
-Open-source, Python-based tool and workflow for the identification and mapping of spectral units with CRISM near-infrared (NIR) data using unsupervised machine-learning (clustering) techniques. Data pre-processing, dimensionality reduction, clustering, and visualization are integrated into an interactive user-friendly environment based on Jupyther notebooks.
-Implemented clustering algorithms are K-means and Gaussian Mixture Models, sourced from the scikit-learn library. Dimensionality reduction is performed either through Principal Component Analysis (PCA) or PCA+Uniform Manifold Approximation and Projection (UMAP).
+This is an open-source, Python-based tool and workflow for the identification and mapping of spectral units with CRISM near-infrared (NIR) data using unsupervised machine-learning (clustering) techniques. Data pre-processing, dimensionality reduction, clustering, and visualization are integrated into an interactive user-friendly environment based on Jupyter notebooks. Implemented clustering algorithms are K-means and Gaussian Mixture Models, sourced from the scikit-learn library. Dimensionality reduction is performed either through Principal Component Analysis (PCA) or PCA+Uniform Manifold Approximation and Projection (UMAP).
 
 ## Dataset
 
