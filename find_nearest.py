@@ -1,21 +1,15 @@
+import numpy as np
+
 def find_nearest(value,
                  array,
                  return_value=False):
     """Find nearest value in a numpy array
 
-    Parameters
-    ----------
-
     value : value to search for
     array : array to search in, should be sorted.
     return_value : bool, if to return the actual values
 
-    Returns
-    -------
-
     """
-
-    import numpy as np
 
     closest_index = (np.abs(array - value)).argmin()
 
